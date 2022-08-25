@@ -1,0 +1,66 @@
+2022-08-20 10:18:48,066 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-20 10:18:48,197 INFO supervisord started with pid 1
+2022-08-20 10:18:49,225 INFO spawned: 'nginx' with pid 7
+2022-08-20 10:18:49,233 INFO spawned: 'php-fpm' with pid 8
+2022-08-20 10:18:50,243 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-20 10:18:50,244 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-20 10:18:58,507 INFO exited: php-fpm (exit status 0; expected)
+2022-08-20 11:23:03,592 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-20 11:23:03,635 INFO supervisord started with pid 1
+2022-08-20 11:23:04,639 INFO spawned: 'nginx' with pid 7
+2022-08-20 11:23:04,644 INFO spawned: 'php-fpm' with pid 8
+2022-08-20 11:23:05,646 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-20 11:23:05,647 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-08-20 11:23:06,486 INFO exited: php-fpm (exit status 0; expected)
+2022-08-20 14:22:01,253 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-20 14:22:01,262 INFO supervisord started with pid 1
+2022-08-20 14:22:02,283 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:02,284 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:03,286 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:03,288 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:05,290 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:05,291 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:08,295 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:08,296 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2022-08-20 14:22:08,296 INFO spawnerr: can't find command 'service'
+2022-08-20 14:22:08,296 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2022-08-20 14:27:51,728 WARN received SIGTERM indicating exit request
+2022-08-20 14:39:49,014 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-20 14:39:49,020 INFO supervisord started with pid 1
+2022-08-20 14:39:50,079 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:50,080 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:51,082 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:51,084 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:53,086 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:53,087 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:56,093 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:56,093 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2022-08-20 14:39:56,094 INFO spawnerr: can't find command 'service'
+2022-08-20 14:39:56,094 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2022-08-20 14:52:05,028 WARN received SIGTERM indicating exit request
+2022-08-20 20:17:45,692 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-20 20:17:45,766 INFO supervisord started with pid 1
+2022-08-20 20:17:46,785 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:46,786 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:47,788 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:47,789 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:49,792 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:49,792 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:52,796 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:52,797 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2022-08-20 20:17:52,797 INFO spawnerr: can't find command 'service'
+2022-08-20 20:17:52,797 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2022-08-21 02:14:28,531 WARN received SIGTERM indicating exit request
+2022-08-21 06:33:23,594 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-08-21 06:33:23,700 INFO supervisord started with pid 1
+2022-08-21 06:33:24,721 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:24,722 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:25,724 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:25,725 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:27,729 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:27,730 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:30,734 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:30,734 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2022-08-21 06:33:30,735 INFO spawnerr: can't find command 'service'
+2022-08-21 06:33:30,735 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2022-08-21 08:34:46,727 WARN received SIGTERM indicating exit request
