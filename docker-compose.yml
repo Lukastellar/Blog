@@ -55,7 +55,7 @@ services:
             SERVICE_NAME: mysql
         volumes:
             - dbdata:/var/lib/mysql/
-            - ./resources/mysql/my.cnf:/etc/mysql/my.cnf
+            - ./resources/mysql/my.cnf:/etc/my.cnf
         networks:
             - app-network
 
